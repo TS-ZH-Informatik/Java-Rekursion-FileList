@@ -1,0 +1,8 @@
+Git Clone directory an make a branch
+
+git remote add origin https://github.com/TS-ZH-Informatik/Java-Rekursion-FileList
+git clone origin Java-Rekursion-FileList
+
+git branch Java-Rekursion-FileList DirectoryReader
+
+git checkout DirectoryReader
